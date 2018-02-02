@@ -1,0 +1,10 @@
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\bin\Debug\netcoreapp2.0\Repo2.deps.json
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\bin\Debug\netcoreapp2.0\Repo2.runtimeconfig.json
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\bin\Debug\netcoreapp2.0\Repo2.runtimeconfig.dev.json
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\bin\Debug\netcoreapp2.0\Repo2.dll
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\bin\Debug\netcoreapp2.0\Repo2.pdb
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\obj\Debug\netcoreapp2.0\Repo2.csproj.CoreCompileInputs.cache
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\obj\Debug\netcoreapp2.0\Repo2.AssemblyInfoInputs.cache
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\obj\Debug\netcoreapp2.0\Repo2.AssemblyInfo.cs
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\obj\Debug\netcoreapp2.0\Repo2.dll
+C:\Users\shota.okihara\source\repos\GitHub\Repo2\obj\Debug\netcoreapp2.0\Repo2.pdb
